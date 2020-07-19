@@ -12,3 +12,15 @@ Inline-style link
 1. Item One
 2. Item two
 3. Item Three
+
+<!-- This is how you commentout something -->
+
+<!-- Headings -->
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+
