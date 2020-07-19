@@ -63,3 +63,18 @@ ___
 <!-- Using one greater-than sign -->
 > This is a quote, using one greater than simbol.
 This quote continues at the second line too.
+
+## Links
+
+<!-- The text you want for the link has to be in brakets [] -->
+<!-- The URL goes in the parenthesis -->
+
+Simple link :
+
+[Google](https://www.google.com/)
+
+<!-- If I want a title to be displayed when the mouse hovers over the link, that goes inside the parenthesis, WITH A SPACE after the URL, in between double quotes -->
+
+Link with a title :
+
+Link to the [tutorial video](https://www.youtube.com/watch?v=HUBNt18RFbo "Markdown Crash Course") I followed while learning Markdown
