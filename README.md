@@ -50,3 +50,11 @@ or
 
 Triple underscores
 ___
+
+## Escape characters with the backslash
+
+<!-- If you actually need to display the special characters like *, _ or ~. -->
+<!-- Use the backslash before each character you want to display -->
+\*Using text and the stars\* without making it italic text
+
+\~~Using the tilde\~~ without making it strike the text
