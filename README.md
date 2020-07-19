@@ -34,3 +34,19 @@ _Using underscore_ to make italic text
 **Using double stars** to make italic text
 
 __Using double underscore__ to make italic text
+
+## Strikethrough
+
+<!-- Strikethrough -->
+~~Using double tilde~~ to make strikethrogh text
+
+## Horizontal Rule
+
+<!-- Horizontal Lines/Separators -->
+Using triple hyphens
+
+---
+or
+
+Triple underscores
+___
