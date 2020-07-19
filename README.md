@@ -78,3 +78,26 @@ Simple link :
 Link with a title :
 
 Link to the [tutorial video](https://www.youtube.com/watch?v=HUBNt18RFbo "Markdown Crash Course") I followed while learning Markdown
+
+## Lists
+
+### Unordered List
+<!-- For nested items, use the tap then the start again -->
+Using the star
+
+* Item 1
+* Item 2
+* Item 3
+    * Nested Item 3.1
+    * Nested Item 3.2
+    * Nested Item 3.3
+
+### Ordered List
+<!--- You can list them as 1. 1. 1. .. or 1. 2. 3. .. -->
+Using 1.
+
+1. Item 1
+1. Item 2
+1. Item 3
+
+
