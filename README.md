@@ -100,4 +100,15 @@ Using 1.
 1. Item 2
 1. Item 3
 
+## Inline Code Block
 
+<!-- Using backticks -->
+`<p> This is a paraghraph <p>`
+
+`var person: Person()`
+
+## Images
+
+<!-- Like making a link, but using the ! before it -->
+Add an image using !, [] and ()
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
