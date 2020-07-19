@@ -158,3 +158,10 @@ def add(num1, num2):
 | John Doe | johndoe@gmail.com |
 | Jane Doe | janedoe@gmail.com |
 
+## Task List
+<!-- Use the stars to list them -->
+<!-- Then the square brakets with an x or a space, to mark them as completed or not -->
+
+* [x] Task 1 Done
+* [x] Task 2 Done
+* [ ] Task 3 Not Done
