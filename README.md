@@ -23,4 +23,14 @@ Inline-style link
 ##### Heading 5
 ###### Heading 6
 
+## _Italic_
 
+<!-- Normal Italics -->
+*Using stars* to make italic text
+
+_Using underscore_ to make italic text
+
+<!-- Strong (bold) Italics -->
+**Using double stars** to make italic text
+
+__Using double underscore__ to make italic text
