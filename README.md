@@ -149,3 +149,12 @@ function add(num1, num2) {
 def add(num1, num2):
     return num1 + num2
 ```
+
+## Tables
+<!-- Use the vertical bar and the dashes/hyphens, to separate and specify where the different components of the table should be -->
+
+| Name     | Email             |
+| -------- | ----------------- |
+| John Doe | johndoe@gmail.com |
+| Jane Doe | janedoe@gmail.com |
+
