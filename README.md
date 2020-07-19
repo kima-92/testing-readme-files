@@ -111,4 +111,41 @@ Using 1.
 
 <!-- Like making a link, but using the ! before it -->
 Add an image using !, [] and ()
+
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+
+# GitHub Markdown
+
+## Code Blocks
+
+<!-- Using triple backticks -->
+
+```
+Small block of code, no specifications
+```
+
+```bash
+# Telling the block of code, this is in bash
+
+npm install
+npm start
+```
+
+```swift
+//Telling the block of code, this is in Swift
+var a = "Some string"
+```
+
+```javascript
+// Telling this block of code, this is in javascript
+function add(num1, num2) {
+    return num1 + num2;
+}
+```
+
+```python
+# Telling this block of code, this is in javascript
+def add(num1, num2):
+    return num1 + num2
+```
