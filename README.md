@@ -8,3 +8,7 @@ Personal repo to test Markdown features
 ## Link example
 Inline-style link
 [One quick cheatsheet from GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+1. Item One
+2. Item two
+3. Item Three
