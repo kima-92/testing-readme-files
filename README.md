@@ -165,3 +165,13 @@ def add(num1, num2):
 * [x] Task 1 Done
 * [x] Task 2 Done
 * [ ] Task 3 Not Done
+
+## Images from inside this repo
+
+Inside this same repo
+
+![](GUEST_9dd6d425-5711-478d-8aa6-7fecf18e7c18.jpg)
+
+Inside the imagesFolder, in this repo
+
+![](imagesFolder/GWC_SEO_Logo.png)
