@@ -8,6 +8,3 @@ Personal repo to test Markdown features
 ## Link example
 Inline-style link
 [One quick cheatsheet from GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-Inline-style link with title (hover over link)
-[Another cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf"Markdown Syntax")
