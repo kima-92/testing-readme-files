@@ -175,3 +175,18 @@ Inside this same repo
 Inside the imagesFolder, in this repo
 
 ![](imagesFolder/GWC_SEO_Logo.png)
+
+### Images with specified size
+<!-- This does the same as above, but in HTML -->
+<!-- Which allows you to specify a width and/or hight -->
+
+<!-- If you specify both, it won't respect the original aspect ratio of the image. If you only specify width OR height, it will maintain it's aspect ratio -->
+
+With a specified width of 200
+
+<img src="GUEST_9dd6d425-5711-478d-8aa6-7fecf18e7c18.jpg" width=200>
+
+### Images with a link
+<!-- Make sure it's inside [], followed by the link inside a parenthesis. No spaces -->
+
+[<img src="imagesFolder/GWC_SEO_Logo.png" width=200>](https://girlswhocode.com/)
