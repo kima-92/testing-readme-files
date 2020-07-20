@@ -195,8 +195,9 @@ With a specified width of 200
 
 ### Using iframe
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1z7_GfEPiE">
-</iframe>
+<!-- This may or may not work. I followed the intructions from https://www.w3docs.com/snippets/html/how-to-insert-video-in-html.html -->
+
+<iframe  width="560"  height="315"  src="https://www.youtube.com/embed/Y1z7_GfEPiE"  frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen></iframe>
 
 ### Using HTML
 
