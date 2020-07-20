@@ -190,3 +190,21 @@ With a specified width of 200
 <!-- Make sure it's inside [], followed by the link inside a parenthesis. No spaces -->
 
 [<img src="imagesFolder/GWC_SEO_Logo.png" width=200>](https://girlswhocode.com/)
+
+## Video
+
+Using iframe
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1z7_GfEPiE">
+</iframe>
+
+Using HTML
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y1z7_GfEPiE
+" target="_blank"><img src="http://img.youtube.com/vi/Y1z7_GfEPiE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+</a>
+
+Using Markdown
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Y1z7_GfEPiE/0.jpg)](http://www.youtube.com/watch?v=Y1z7_GfEPiE)
