@@ -71,11 +71,11 @@ This quote continues at the second line too.
 
 Simple link :
 
-[Google](https://www.google.com/)
+Really good [browser tool](https://www.google.com/) where you can also see a preview of what will the Markdown look like before pushing it to GitHub
 
 <!-- If I want a title to be displayed when the mouse hovers over the link, that goes inside the parenthesis, WITH A SPACE after the URL, in between double quotes -->
 
-Link with a title :
+Link with a title (when you hover the mouse over it) :
 
 Link to the [tutorial video](https://www.youtube.com/watch?v=HUBNt18RFbo "Markdown Crash Course") I followed while learning Markdown
 
@@ -193,18 +193,27 @@ With a specified width of 200
 
 ## Video
 
-Using iframe
+### Using iframe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1z7_GfEPiE">
 </iframe>
 
-Using HTML
+### Using HTML
+
+With HTML, you can adjust the size
+
+<!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE TITLE TEXT HERE" width="240" height="180" border="10" />
+</a> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y1z7_GfEPiE
 " target="_blank"><img src="http://img.youtube.com/vi/Y1z7_GfEPiE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+alt="IMAGE TITLE TEXT HERE" width="240" height="180" border="10" />
 </a>
 
-Using Markdown
+### Using Markdown
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Y1z7_GfEPiE/0.jpg)](http://www.youtube.com/watch?v=Y1z7_GfEPiE)
+<!-- [![Title of the image](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE) -->
+
+[![Title of the image](http://img.youtube.com/vi/Y1z7_GfEPiE/0.jpg)](http://www.youtube.com/watch?v=Y1z7_GfEPiE)
